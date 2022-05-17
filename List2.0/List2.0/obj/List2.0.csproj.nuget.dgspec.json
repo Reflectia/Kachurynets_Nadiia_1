@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Програмування\\List2.0\\List2.0\\List2.0.csproj": {}
+    "C:\\Users\\Надя\\Documents\\Git\\Kachurynets_Nadiia_1\\List2.0\\List2.0\\List2.0.csproj": {}
   },
   "projects": {
-    "C:\\Програмування\\List2.0\\List2.0\\List2.0.csproj": {
+    "C:\\Users\\Надя\\Documents\\Git\\Kachurynets_Nadiia_1\\List2.0\\List2.0\\List2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Програмування\\List2.0\\List2.0\\List2.0.csproj",
+        "projectUniqueName": "C:\\Users\\Надя\\Documents\\Git\\Kachurynets_Nadiia_1\\List2.0\\List2.0\\List2.0.csproj",
         "projectName": "List2.0",
-        "projectPath": "C:\\Програмування\\List2.0\\List2.0\\List2.0.csproj",
+        "projectPath": "C:\\Users\\Надя\\Documents\\Git\\Kachurynets_Nadiia_1\\List2.0\\List2.0\\List2.0.csproj",
         "packagesPath": "C:\\Users\\Надя\\.nuget\\packages\\",
-        "outputPath": "C:\\Програмування\\List2.0\\List2.0\\obj\\",
+        "outputPath": "C:\\Users\\Надя\\Documents\\Git\\Kachurynets_Nadiia_1\\List2.0\\List2.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Надя\\AppData\\Roaming\\NuGet\\NuGet.Config",

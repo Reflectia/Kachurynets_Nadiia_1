@@ -1,0 +1,16 @@
+C:\Програмування\Electronics2\Electronics2\bin\Debug\net5.0\Electronics2.exe
+C:\Програмування\Electronics2\Electronics2\bin\Debug\net5.0\Electronics2.deps.json
+C:\Програмування\Electronics2\Electronics2\bin\Debug\net5.0\Electronics2.runtimeconfig.json
+C:\Програмування\Electronics2\Electronics2\bin\Debug\net5.0\Electronics2.runtimeconfig.dev.json
+C:\Програмування\Electronics2\Electronics2\bin\Debug\net5.0\Electronics2.dll
+C:\Програмування\Electronics2\Electronics2\bin\Debug\net5.0\Electronics2.pdb
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.csproj.AssemblyReference.cache
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.AssemblyInfoInputs.cache
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.AssemblyInfo.cs
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.csproj.CoreCompileInputs.cache
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.dll
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\ref\Electronics2.dll
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.pdb
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\Electronics2.genruntimeconfig.cache
+C:\Програмування\Electronics2\Electronics2\obj\Debug\net5.0\refint\Electronics2.dll

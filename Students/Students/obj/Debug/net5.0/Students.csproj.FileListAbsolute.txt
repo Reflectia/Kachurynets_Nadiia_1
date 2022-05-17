@@ -1,0 +1,16 @@
+C:\Програмування\Students\Students\bin\Debug\net5.0\Students.exe
+C:\Програмування\Students\Students\bin\Debug\net5.0\Students.deps.json
+C:\Програмування\Students\Students\bin\Debug\net5.0\Students.runtimeconfig.json
+C:\Програмування\Students\Students\bin\Debug\net5.0\Students.runtimeconfig.dev.json
+C:\Програмування\Students\Students\bin\Debug\net5.0\Students.dll
+C:\Програмування\Students\Students\bin\Debug\net5.0\Students.pdb
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.csproj.AssemblyReference.cache
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.AssemblyInfoInputs.cache
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.AssemblyInfo.cs
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.csproj.CoreCompileInputs.cache
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.dll
+C:\Програмування\Students\Students\obj\Debug\net5.0\ref\Students.dll
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.pdb
+C:\Програмування\Students\Students\obj\Debug\net5.0\Students.genruntimeconfig.cache
+C:\Програмування\Students\Students\obj\Debug\net5.0\refint\Students.dll
